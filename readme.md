@@ -1,6 +1,6 @@
 <b>Ncat 7.97 for Windows</b>
 
-compiled instructions from here https://secwiki.org/w/Nmap/Ncat_Portable
+compiled instructions from here href="https://secwiki.org/w/Nmap/Ncat_Portable" target="_blank">https://secwiki.org/w/Nmap/Ncat_Portable
 
 openssl 3.5.0
 
