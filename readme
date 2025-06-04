@@ -1,20 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta content="text/html; charset=ISO-8859-1"
- http-equiv="content-type">
-  <title></title>
-</head>
-<body>
-<div style="text-align: left;"><span
- style="font-weight: bold;">Ncat 7.97 for Windows</span><br>
-compiled instructions from here <a
- href="https://secwiki.org/w/Nmap/Ncat_Portable" target="_blank">https://secwiki.org/w/Nmap/Ncat_Portable</a><br>
-openssl 3.5.0<br>
-<br>
-ncat.exe md5: 1DDB2B8F89161B14887408A41E5929B1<br>
-<br>
-<img style="width: 735px; height: 294px;" alt=""
- src="cmd.png"></div>
-</body>
-</html>
+<b>Ncat 7.97 for Windows</b>
+compiled instructions from here https://secwiki.org/w/Nmap/Ncat_Portable
+openssl 3.5.0
+
+ncat.exe md5: 1DDB2B8F89161B14887408A41E5929B1
