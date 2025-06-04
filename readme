@@ -4,4 +4,4 @@ openssl 3.5.0
 
 ncat.exe md5: 1DDB2B8F89161B14887408A41E5929B1
 
-![Remote Shell](Images/cmd.png)
+![Remote Shell](cmd.png)
